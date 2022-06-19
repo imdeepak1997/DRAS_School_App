@@ -1,0 +1,56 @@
+[
+    {
+        "cone": [
+            {
+                "subjectid": "conesone",
+                "subjectNumber": "1",
+                "subjectName": "Math",
+                "subjectTeacher": "Deepak"
+            },
+            {
+                "subjectid": "conestwo",
+                "subjectNumber": "2",
+                "subjectName": "English",
+                "subjectTeacher": "Rahul"
+            },
+            {
+                "subjectid": "conesthree",
+                "subjectNumber": "3",
+                "subjectName": "Hindi",
+                "subjectTeacher": "Mayank"
+            },
+            {
+                "subjectid": "conesfour",
+                "subjectNumber": "4",
+                "subjectName": "Science",
+                "subjectTeacher": "Ashutosh"
+            },
+            {
+                "subjectid": "conesfive",
+                "subjectNumber": "5",
+                "subjectName": "Social Scince",
+                "subjectTeacher": "Sandeep"
+            }
+        ],
+        "ctwo": [
+            {
+                "subjectid": "ctwosone",
+                "subjectNumber": "1",
+                "subjectName": "Math",
+                "subjectTeacher": "Deepak"
+            },
+            {
+                "subjectid": "ctwostwo",
+                "subjectNumber": "2",
+                "subjectName": "English",
+                "subjectTeacher": "Rahul"
+            },
+            {
+                "subjectid": "ctwosthree",
+                "subjectNumber": "3",
+                "subjectName": "Hindi",
+                "subjectTeacher": "Mayank"
+            }
+        ]
+    }
+]
